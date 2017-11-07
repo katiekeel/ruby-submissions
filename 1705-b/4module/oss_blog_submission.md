@@ -30,7 +30,7 @@
 
 ## Katie Keel
 
-* Link to Blog Post:
+* Link to Blog Post: https://medium.com/@katiekeel/my-open-source-adventure-a579a246480d
 
 ## Mason Holland
 
